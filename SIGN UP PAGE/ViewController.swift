@@ -21,6 +21,8 @@ class ViewController: UIViewController {
     lazy var emailLabel : UILabel = {
         let label = UILabel()
         label.translatesAutoresizingMaskIntoConstraints = false
+        
+        
         label.textColor = UIColor(red: 130/255, green: 131/255, blue: 134/255, alpha: 1)
         label.font = .systemFont(ofSize: 17, weight: .medium)
         label.text = "Email"
