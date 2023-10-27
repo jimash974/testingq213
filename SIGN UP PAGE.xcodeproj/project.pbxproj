@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		581876D12AEBBDAC0060A80F /* lalaland.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581876D02AEBBDAC0060A80F /* lalaland.swift */; };
 		582F69F82ACA71DD00F8EEF0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582F69F72ACA71DD00F8EEF0 /* AppDelegate.swift */; };
 		582F69FA2ACA71DD00F8EEF0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582F69F92ACA71DD00F8EEF0 /* SceneDelegate.swift */; };
 		582F69FC2ACA71DD00F8EEF0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582F69FB2ACA71DD00F8EEF0 /* ViewController.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		581876D02AEBBDAC0060A80F /* lalaland.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lalaland.swift; sourceTree = "<group>"; };
 		582F69F42ACA71DD00F8EEF0 /* SIGN UP PAGE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SIGN UP PAGE.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		582F69F72ACA71DD00F8EEF0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		582F69F92ACA71DD00F8EEF0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				582F69F72ACA71DD00F8EEF0 /* AppDelegate.swift */,
 				582F69F92ACA71DD00F8EEF0 /* SceneDelegate.swift */,
 				582F69FB2ACA71DD00F8EEF0 /* ViewController.swift */,
+				581876D02AEBBDAC0060A80F /* lalaland.swift */,
 				582F6A002ACA71DE00F8EEF0 /* Assets.xcassets */,
 				582F6A022ACA71DE00F8EEF0 /* LaunchScreen.storyboard */,
 				582F6A052ACA71DE00F8EEF0 /* Info.plist */,
@@ -136,6 +139,7 @@
 			files = (
 				582F69FC2ACA71DD00F8EEF0 /* ViewController.swift in Sources */,
 				582F69F82ACA71DD00F8EEF0 /* AppDelegate.swift in Sources */,
+				581876D12AEBBDAC0060A80F /* lalaland.swift in Sources */,
 				582F69FA2ACA71DD00F8EEF0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
